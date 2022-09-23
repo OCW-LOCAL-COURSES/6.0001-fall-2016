@@ -1,112 +1,79 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, goals, attendance, problem sets, quizzes, grading policy, the
+  textbook, and the schedule of lecture topics and assignments.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 678646fa-7bd0-df01-4b7a-c47adbdbe694
 ---
-
-Course Meeting Times
---------------------
+## Course Meeting Times
 
 Lectures: 2 sessions / week, 1 hour / session
 
 Recitations: 1 sessions / week, 1 hour / session
 
-Course Information
-------------------
+## Course Information
 
-_6.0001 Introduction to Computer Science and Programming in Python_ is intended for students with little or no programming experience. It aims to provide students with an understanding of the role computation can play in solving problems and to help students, regardless of their major, feel justifiably confident of their ability to write small programs that allow them to accomplish useful goals. The class will use the Python 3.5 programming language.
+*6.0001 Introduction to Computer Science and Programming in Python* is intended for students with little or no programming experience. It aims to provide students with an understanding of the role computation can play in solving problems and to help students, regardless of their major, feel justifiably confident of their ability to write small programs that allow them to accomplish useful goals. The class will use the Python 3.5 programming language.
 
-This is a half-semester course. Students who successfully complete 6.0001 may continue into _6.0002 Introduction to Computational Thinking and Data Science_, which is taught in the second half of the semester.
+This is a half-semester course. Students who successfully complete 6.0001 may continue into *6.0002 Introduction to Computational Thinking and Data Science*, which is taught in the second half of the semester.
 
-Goals
------
+6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016
 
-*   Provide an understanding of the role computation can play in solving problems.
-*   Help students, including those who do not plan to major in Computer Science and Electrical Engineering, feel confident of their ability to write small programs that allow them to accomplish useful goals.
-*   Position students so that they can compete for research projects and excel in subjects with programming components.
+## Goals
 
-Textbook
---------
+- Provide an understanding of the role computation can play in solving problems.
+- Help students, including those who do not plan to major in Computer Science and Electrical Engineering, feel confident of their ability to write small programs that allow them to accomplish useful goals.
+- Position students so that they can compete for research projects and excel in subjects with programming components.
 
-The textbook is [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262529624) Guttag, John. _Introduction to Computation and Programming Using Python: With Application to Understanding Data Second Edition_. MIT Press, 2016. ISBN: 9780262529624. The book and the course lectures parallel each other, though there is more detail in the book about some topics. It is available both in hard copy and as an e-book.
+## Textbook
 
-Lecture and Recitation Attendance
----------------------------------
+The textbook is [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262529624) Guttag, John. *Introduction to Computation and Programming Using Python: With Application to Understanding Data Second Edition*. MIT Press, 2016. ISBN: 9780262529624. The book and the course lectures parallel each other, though there is more detail in the book about some topics. It is available both in hard copy and as an e-book.
+
+## Lecture and Recitation Attendance
 
 A significant portion of the material for this course will presented only in lecture, so students are expected to regularly attend lectures.
 
 Recitations give students a chance to ask questions about the lecture material or the problem set for the given week. Sometimes, new material may be covered in recitation. Recitation attendance is encouraged but not required.
 
-Problem Sets and Quizzes
-------------------------
+## Problem Sets and Quizzes
 
 Each problem set will involve programming in Python. There will be 6 problem sets in the course. There will be two quizzes. All quizzes will be closed-book, though you will be allowed to bring one page of notes to the first quiz and two pages of notes to the second quiz. Pages must be letter-sized, double-sided, either handwritten or typed.
 
-Grading Policy
---------------
+## Grading Policy
 
 Grades will be roughly computed as follows:
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 ACTIVITIES
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 PERCENTAGES
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Problem sets
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 30%
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Completion of mandatory finger exercises
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 10%
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Midterm Quiz
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 20%
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Final Quiz
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 40%
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 Problem sets will be graded out of 10 points. Submissions that do not run will receive at most 20% of the points. Please contact your Teaching Assistant if you have a problem understanding your problem set grade.
 
-_Note: Quizzes and finger exercises are not available on OpenCourseWare._
+*Note: Quizzes and finger exercises are not available on OpenCourseWare.*
 
-Extension and Dropping Problem Sets Policy
-------------------------------------------
+## Extension and Dropping Problem Sets Policy
 
 We do not grant any extensions. Instead, we offer late days and the option of rolling at most 2 problem set grades into the final quiz score.
 
@@ -118,168 +85,84 @@ At the beginning of the term, students are given two late days that they can use
 
 Before the final quiz, we will send out an announcement in which you can choose at most 2 problem sets that you can drop. If dropped, the percent that the problem sets are worth will be rolled into the final quiz score. We strongly urge you to see the late days and dropping the problem sets as backup in case of an emergency. Your best strategy is to do the problem sets early before work starts to pile up.
 
-Calendar
---------
+## Calendar
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 TOPICS
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 ASSIGNMENTS
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 What is computation?
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Pset 0 released
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Branching and Iteration
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Pset 1 released
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 String Manipulation, Guess and Check, Approximations, Bisection
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Pset 0 due
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Decomposition, Abstractions, Functions
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Pset 2 released
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Tuples, Lists, Aliasing, Mutability, Cloning
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Pset 1 due
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Recursion, Dictionaries
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Pset 3 released
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Testing, Debugging, Exceptions, Assertions
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Pset 2 due; Quiz 1
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Object Oriented Programming
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Python Classes and Inheritance
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Pset 3 due; Pset 4 released
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Understanding Program Efficiency, Part 1
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Pset 4 due; Pset 5 released
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Understanding Program Efficiency, Part 2
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Searching and Sorting
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Pset 5 due; Final Quiz
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
